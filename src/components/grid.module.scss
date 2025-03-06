@@ -9,7 +9,7 @@
 
   &__item {
     display: flex;
-    background-color: #fff;
+    background-color: var(--foreground);
     padding: 8px;
     overflow: hidden;
     opacity: 1.0;
